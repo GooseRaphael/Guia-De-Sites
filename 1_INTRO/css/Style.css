@@ -1,0 +1,51 @@
+/* HTML*/
+html,
+body{
+background-color: rgb(17, 14, 65);
+}
+
+/* Sempre em movimento*/
+h1{
+font-family:serif;
+font-size:70px;
+text-align:center;
+letter-spacing:8px;
+line-height:0%;
+padding-top:290px;
+color:rgb(231, 214, 214)
+}
+/* Objetivos do Site */
+h2{
+font-family:serif;
+font-size:30px;
+text-align:center;
+letter-spacing:1.5px;
+line-height:1px;
+padding-left:200px;
+color:white;
+}
+
+ul{
+padding-right:px;
+}
+
+li{
+font-family:Arial;
+font-style: italic;
+font-size:20px;
+letter-spacing:1.3px;
+line-height:8px;
+padding: 10px;
+color: aliceblue;
+}
+
+/* Imagem */
+.header{
+background-image: url(img/Caminhão\ 2.PNG);
+background-size:cover;
+background-position:center;
+height:100vh;
+height:400px;
+width:100%;
+overflow: hidden;
+}
